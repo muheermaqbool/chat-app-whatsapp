@@ -1,0 +1,30 @@
+.sidebarchat{
+    display: flex;
+    padding: 10px;
+    align-items: center;
+    cursor: pointer;
+    border-bottom: 1px solid #8A8A8A;
+    background-color: #2E2E2E;
+    color: #BBC4C2;
+}
+a{
+    text-decoration: none;
+}
+.sidebarchat:hover{
+    background-color: #282828;
+}
+.headding_chat_sidebar{
+    font-size: 16px;
+    margin-bottom: 8px;
+    text-transform: capitalize;
+}
+.sidechatbar_info {
+    margin-left: 15px;
+}
+.sidechatbar_info_h2{
+    font-size: 20px;
+    text-transform: capitalize;
+}
+.sidechatbar_info_p{
+  font-size: 12px;
+}

@@ -1,0 +1,21 @@
+.demo_container{
+    height: 500px;
+    background-color: #2C2C2C;
+    color: #BBC4C2;
+    display: grid;
+    place-items: center;
+    flex: 1;
+    justify-content: center;
+    border-radius: 10px;
+}
+.logo_handel{
+     display: grid;
+   place-items: center;     
+}
+.MuiSvgIcon-root{
+    color: #BBC4C2;
+}
+.logo_name{
+    text-transform: capitalize;
+
+}
